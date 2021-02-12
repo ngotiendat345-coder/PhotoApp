@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/PhotoApp/static/css/main.03b0dc1c.chunk.css",
+    "main.js": "/PhotoApp/static/js/main.c7b5e560.chunk.js",
+    "main.js.map": "/PhotoApp/static/js/main.c7b5e560.chunk.js.map",
+    "runtime-main.js": "/PhotoApp/static/js/runtime-main.17075028.js",
+    "runtime-main.js.map": "/PhotoApp/static/js/runtime-main.17075028.js.map",
+    "static/js/2.549cf7ff.chunk.js": "/PhotoApp/static/js/2.549cf7ff.chunk.js",
+    "static/js/2.549cf7ff.chunk.js.map": "/PhotoApp/static/js/2.549cf7ff.chunk.js.map",
+    "static/css/3.150d169a.chunk.css": "/PhotoApp/static/css/3.150d169a.chunk.css",
+    "static/js/3.2e610aa0.chunk.js": "/PhotoApp/static/js/3.2e610aa0.chunk.js",
+    "static/js/3.2e610aa0.chunk.js.map": "/PhotoApp/static/js/3.2e610aa0.chunk.js.map",
+    "static/css/4.b36da7ef.chunk.css": "/PhotoApp/static/css/4.b36da7ef.chunk.css",
+    "static/js/4.c732fd27.chunk.js": "/PhotoApp/static/js/4.c732fd27.chunk.js",
+    "static/js/4.c732fd27.chunk.js.map": "/PhotoApp/static/js/4.c732fd27.chunk.js.map",
+    "index.html": "/PhotoApp/index.html",
+    "static/css/3.150d169a.chunk.css.map": "/PhotoApp/static/css/3.150d169a.chunk.css.map",
+    "static/css/4.b36da7ef.chunk.css.map": "/PhotoApp/static/css/4.b36da7ef.chunk.css.map",
+    "static/css/main.03b0dc1c.chunk.css.map": "/PhotoApp/static/css/main.03b0dc1c.chunk.css.map",
+    "static/js/3.2e610aa0.chunk.js.LICENSE.txt": "/PhotoApp/static/js/3.2e610aa0.chunk.js.LICENSE.txt",
+    "static/media/blue-bg.93b683dc.jpg": "/PhotoApp/static/media/blue-bg.93b683dc.jpg",
+    "static/media/Banner.scss": "/PhotoApp/static/media/orange-bg.a98c2734.jpg",
+    "static/media/pink-bg.d6dafc0a.jpg": "/PhotoApp/static/media/pink-bg.d6dafc0a.jpg",
+    "static/media/white-bg.06a0216b.jpg": "/PhotoApp/static/media/white-bg.06a0216b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17075028.js",
+    "static/css/3.150d169a.chunk.css",
+    "static/js/3.2e610aa0.chunk.js",
+    "static/css/main.03b0dc1c.chunk.css",
+    "static/js/main.c7b5e560.chunk.js"
+  ]
+}
