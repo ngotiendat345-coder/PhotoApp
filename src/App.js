@@ -3,7 +3,8 @@ import {
     BrowserRouter as Router,
     Switch,
     Route,
-    Redirect
+    Redirect,
+    useRouteMatch
   } from "react-router-dom";
 import Header from './Component/Header/Header'
 //import Photos from './features/Photo';
@@ -13,6 +14,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
   function App(){
     const Photo = React.lazy(()=>import('./features/Photo'))
+    const match = useRouteMatch()
     return(
         <>
         <Suspense fallback={<Loading/>}>
@@ -20,7 +22,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
             <Header />
             <Switch>
               <Redirect exact from="/" to="/photos" />
-              <Redirect exact from="/PhotoApp/" to="/photos"/>
+              <Redirect exact from={`${match}/`} to="/photos"/>
               <Route path="/photos" component={Photo} />
               <Route component={NotFound} />
             </Switch>
