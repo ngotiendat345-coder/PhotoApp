@@ -1,0 +1,27 @@
+.header{
+    padding: 1rem 0;
+    font-size: 1.25rem;
+    &__container{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__title{
+        font-weight: 700;
+    }
+    &__link{
+        color: #000;
+        transition: all .25s ease-in-out 0s;
+        text-decoration: none;
+        background-color: transparent;
+        &--active,
+        &:hover{
+            text-decoration: none;
+            color: #007bff;
+        }
+    }
+    &__photo{
+        text-align: right;
+    }
+
+}
