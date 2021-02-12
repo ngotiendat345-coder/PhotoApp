@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/PhotoApp/static/css/main.03b0dc1c.chunk.css",
-    "main.js": "/PhotoApp/static/js/main.7804028d.chunk.js",
-    "main.js.map": "/PhotoApp/static/js/main.7804028d.chunk.js.map",
-    "runtime-main.js": "/PhotoApp/static/js/runtime-main.6a6af652.js",
-    "runtime-main.js.map": "/PhotoApp/static/js/runtime-main.6a6af652.js.map",
-    "static/js/2.e6a048d6.chunk.js": "/PhotoApp/static/js/2.e6a048d6.chunk.js",
-    "static/js/2.e6a048d6.chunk.js.map": "/PhotoApp/static/js/2.e6a048d6.chunk.js.map",
+    "main.js": "/PhotoApp/static/js/main.4ab903e6.chunk.js",
+    "main.js.map": "/PhotoApp/static/js/main.4ab903e6.chunk.js.map",
+    "runtime-main.js": "/PhotoApp/static/js/runtime-main.003521b2.js",
+    "runtime-main.js.map": "/PhotoApp/static/js/runtime-main.003521b2.js.map",
+    "static/js/2.fc9583a3.chunk.js": "/PhotoApp/static/js/2.fc9583a3.chunk.js",
+    "static/js/2.fc9583a3.chunk.js.map": "/PhotoApp/static/js/2.fc9583a3.chunk.js.map",
     "static/css/3.150d169a.chunk.css": "/PhotoApp/static/css/3.150d169a.chunk.css",
-    "static/js/3.8b778bdc.chunk.js": "/PhotoApp/static/js/3.8b778bdc.chunk.js",
-    "static/js/3.8b778bdc.chunk.js.map": "/PhotoApp/static/js/3.8b778bdc.chunk.js.map",
+    "static/js/3.294cab8b.chunk.js": "/PhotoApp/static/js/3.294cab8b.chunk.js",
+    "static/js/3.294cab8b.chunk.js.map": "/PhotoApp/static/js/3.294cab8b.chunk.js.map",
     "static/css/4.b36da7ef.chunk.css": "/PhotoApp/static/css/4.b36da7ef.chunk.css",
-    "static/js/4.57f3bc88.chunk.js": "/PhotoApp/static/js/4.57f3bc88.chunk.js",
-    "static/js/4.57f3bc88.chunk.js.map": "/PhotoApp/static/js/4.57f3bc88.chunk.js.map",
+    "static/js/4.b8879c2e.chunk.js": "/PhotoApp/static/js/4.b8879c2e.chunk.js",
+    "static/js/4.b8879c2e.chunk.js.map": "/PhotoApp/static/js/4.b8879c2e.chunk.js.map",
     "index.html": "/PhotoApp/index.html",
     "static/css/3.150d169a.chunk.css.map": "/PhotoApp/static/css/3.150d169a.chunk.css.map",
     "static/css/4.b36da7ef.chunk.css.map": "/PhotoApp/static/css/4.b36da7ef.chunk.css.map",
     "static/css/main.03b0dc1c.chunk.css.map": "/PhotoApp/static/css/main.03b0dc1c.chunk.css.map",
-    "static/js/3.8b778bdc.chunk.js.LICENSE.txt": "/PhotoApp/static/js/3.8b778bdc.chunk.js.LICENSE.txt",
+    "static/js/3.294cab8b.chunk.js.LICENSE.txt": "/PhotoApp/static/js/3.294cab8b.chunk.js.LICENSE.txt",
     "static/media/blue-bg.93b683dc.jpg": "/PhotoApp/static/media/blue-bg.93b683dc.jpg",
     "static/media/Banner.scss": "/PhotoApp/static/media/orange-bg.a98c2734.jpg",
     "static/media/pink-bg.d6dafc0a.jpg": "/PhotoApp/static/media/pink-bg.d6dafc0a.jpg",
     "static/media/white-bg.06a0216b.jpg": "/PhotoApp/static/media/white-bg.06a0216b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a6af652.js",
+    "static/js/runtime-main.003521b2.js",
     "static/css/3.150d169a.chunk.css",
-    "static/js/3.8b778bdc.chunk.js",
+    "static/js/3.294cab8b.chunk.js",
     "static/css/main.03b0dc1c.chunk.css",
-    "static/js/main.7804028d.chunk.js"
+    "static/js/main.4ab903e6.chunk.js"
   ]
 }
