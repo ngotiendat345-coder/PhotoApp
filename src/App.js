@@ -20,6 +20,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
             <Header />
             <Switch>
               <Redirect exact from="/" to="/photos" />
+              <Redirect exact from="/PhotoApp/" to="/photos"/>
               <Route path="/photos" component={Photo} />
               <Route component={NotFound} />
             </Switch>
